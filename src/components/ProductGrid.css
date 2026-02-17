@@ -1,0 +1,17 @@
+.product-grid {
+    background: rgb(255, 249, 249);
+    border-radius: 12px;
+    padding: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .product-grid:hover {
+    transform: translateY(-3px);
+  }
+  
+  .product-grid img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
